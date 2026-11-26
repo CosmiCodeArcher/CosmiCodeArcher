@@ -1,4 +1,4 @@
-# Hi, I'm Archer
+# Hi, I'm Hamzah (Archer online)
 
 I build keyboard-first tools for [Omarchy](https://omarchy.org) and Hyprland, and I'm learning in public as a software development fellow at Learn2Earn in Lagos: Go first, now Python on Talent Nation's AI Engineering track.
 
